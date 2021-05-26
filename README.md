@@ -1,2 +1,2 @@
-# PictureBed
-This is my picture bed
+# FigureBed
+This is my Figure bed
